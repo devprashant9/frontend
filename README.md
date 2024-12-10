@@ -111,3 +111,14 @@ It is a container for other tags. It is a block level element. It con contain an
 It is a inline element and work as a container for other tags. Basically used for small text manipulations to make websites more attractives.
 
 ------------------------------------------------------
+## 10-12-2024
+### Level 5
+- Lists in HTML (Ordered List, Unordered List, List Items)
+- Tables in HTML
+- Forms in HTML
+- iframe
+
+Make sure to know the correct use of table tags which might be confuding for absolute beginners. Also the attributes in **forms** are very important. The **name** attribute is helpful for servers to understand that they need to receive data using that variable and the **value** attribute contains the data to be received. If no data is given then **value** attribute has a default data which is sent to the server on submitting the form. The **name** attribute should be unique.
+
+>> Completed HTML
+--------------------------------
