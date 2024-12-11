@@ -122,3 +122,46 @@ Make sure to know the correct use of table tags which might be confuding for abs
 
 >> Completed HTML
 --------------------------------
+## Video Reference
+[CSS Tutorial](https://www.youtube.com/watch?v=OpWjt_wbV4E&list=PL78RhpUUKSwfYr_bKHq7SWfTCBGad_xxP&index=2)
+-----------
+## 11-12-2024
+### Level 1
+- Color
+- Different ways of adding CSS to HTML file
+- Comments in CSS
+- Universal Selector
+- Id and class Selectors
+- Group Selectors
+- Descendant Selectors
+
+------------------------
+### Level 2
+- Background Color Property
+- Color System (RGB rgb(0-255, 0-255, 0-255), HEX (#RRGGBB))
+- Color System With Alpha Channel
+- Absolute Units (Pixels)
+- Height and Width Property
+- Background Image Property
+- Visibility
+
+-----------------------
+### Level 3
+- Text Align Property
+- Text Decoration Property
+- Text Transform Property
+- Line-Height Property
+- Font Properties
+- Font Family
+- Icons Using Fonts
+
+-------------------------
+### Level 4
+- Box Model
+    - Margin
+    - Border
+    - Padding
+    - Content
+
+
+Not practised anything in CSS. Will create different pages directly after completely the full tutorial.
