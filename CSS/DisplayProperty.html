@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Property</title>
+    <style>
+        .box {
+            height: 100px;
+            width: 100px;
+            background-color: blueviolet;
+            text-align: center;
+            border: 5px solid tomato;
+            border-radius: 10px;
+            margin: 10px;
+
+            display: inline; /* No Setting of Width & Height */
+            display: block;
+            display: inline-block;
+        }
+
+        #hide {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="box">Boxes 1</div>
+        <div class="box" id="hide">Boxes 2</div>
+        <div class="box">Boxes 3</div>
+    </div>
+</body>
+</html>

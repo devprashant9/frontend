@@ -165,3 +165,52 @@ Make sure to know the correct use of table tags which might be confuding for abs
 
 
 Not practised anything in CSS. Will create different pages directly after completely the full tutorial.
+
+---------------------------------
+## 12-12-2024
+### Level 5
+- Display Position
+- Responsive Size
+- Relative Units
+    - Percentage (Relative to Parent)
+    - em (Relative to Font Size of Parent)
+    - rem (Pelative to Root Element (16 px By Default))
+    - vw (Relative to Screen Width)
+    - vw (Relative to Screen Height)
+- Position Property
+    - static (No Change)
+    - absolute (Sets its Position to tof-left Corner of Web Page)
+    - relative (Relative to Default Render Position)
+    - fixed (Sticks to Defined Properties Even on Scroll)
+    - z-index (Defines Level of Outness)
+- Semantic Tags
+
+---------------------------------
+### Level 6
+- Float
+- FlexBox
+    - flex direction (Adjusts Height of Flex Items in Which Direction is Defined)
+    - align content (Manages Spaces Between Cross Axis)
+    - align selft (Manages Spaces Between Cross Axis BUt on Individual Flex items)
+    - flex shrink (shrinks an flex item relative to other items. 0 means no change)
+    - flex grow (grows an item relative to other item. 0 means no change)
+    - order (orders individual flex items)
+- Grid
+- Media Queris
+    - width (Exact Width)
+    - min-width (Hits the media query at specified property and there after)
+    - max-width (hits the media query untill this width is reached)
+
+-------------------------------------
+### Level 7
+- Pseudo Classes
+- Transitions
+- CSS Transform
+    - rotate
+    - translate (shifts from its initial position)
+    - skew
+- Animation
+    - the **to** and **from** can be defined in **%** also. Like, **0%**, **25%**, **50%**, **75%** and it is relative to duration function.
+
+> Completed CSS
+----------------------------------------------------
